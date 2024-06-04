@@ -1,5 +1,4 @@
-li,
-.a{
+li{
     background-color: lightpink;
     color:blueviolet;
     text-align: center;
@@ -13,11 +12,25 @@ h1{
 
 h3{
     text-align: center;
+    color:blueviolet;
 }
 
 .description{
-    font-family: "Venetia", sans-serif;
+    font-family: "Times New Roman", sans-serif;
     font-weight: 500;
     background-color: lightblue;
-    color:orange;
+    color:orangered;
+}
+
+.ingredients{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 800;
+    background-color: lightyellow;
+    color:brown;
+}
+
+.steps{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background-color: aquamarine;
 }
