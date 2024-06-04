@@ -10,3 +10,14 @@ h1{
     background-color: orange;
     color: skyblue;
 }
+
+h3{
+    text-align: center;
+}
+
+.description{
+    font-family: "Venetia", sans-serif;
+    font-weight: 500;
+    background-color: lightblue;
+    color:orange;
+}
