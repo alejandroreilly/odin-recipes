@@ -34,3 +34,8 @@ h3{
     font-weight: bold;
     background-color: aquamarine;
 }
+
+img{
+    height:600px;
+    width:auto;
+}
