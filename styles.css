@@ -1,13 +1,56 @@
+body{
+    background: white;
+}
+.recipe{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #CBC3E3;
+    height: auto;
+    color: purple;
+    display: inline-block;
+    font-size: 20px;
+    text-align: center;
+    padding-left:82px;
+    padding-right:83px;
+    border-width: 5px;
+    border-color: black;
+}
+
+.recipe,
+.one{
+    margin-right:10px;
+}
+
+.two{
+    margin-right: 0px;
+}
 li{
     background-color: lightpink;
     color:blueviolet;
     text-align: center;
 }
 
+.home-page{
+    background-color: #CBC3E3;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 10px;
+    margin: 10px auto;
+    height: 80px;
+    padding-top: 50px;
+}
+
+.all{
+    background: lightgrey;
+    width: 1000px;
+    height: 200px;
+    margin: 10px auto;
+    margin-bottom: 10px;
+}
+
 h1{
     text-align: center;
-    background-color: orange;
-    color: skyblue;
+    background-color: lightgrey;
+    color: purple;
 }
 
 h3{
